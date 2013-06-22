@@ -1,10 +1,10 @@
-(defproject clj-captcha "0.1"
+(defproject clj-captcha "0.1.1-SNAPSHOT"
   :description "clojure for jcaptcha"
   :url "http://github.com/itang/clj-captcha"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [lib-noir "0.6.2"]
+                 [lib-noir "0.6.4"]
                  [com.octo.captcha/jcaptcha "1.0"]]
   ;; for com.jhlabs:imaging:jar:01012005
   :repositories [["jahia" "http://maven.jahia.org/maven2"]]
