@@ -1,4 +1,4 @@
-(defproject clj-captcha "0.1.1-SNAPSHOT"
+(defproject clj-captcha "0.1.1"
   :description "clojure for jcaptcha"
   :url "http://github.com/itang/clj-captcha"
   :license {:name "Eclipse Public License"
